@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 (\* denotes equal contribution)
 
-Lu Mi*, **Trung Le**\*, Tianxing He, Eli Shlizerman, Uygar Sümbül. Learning Time-Invariant Representations for Individual Neurons from Population Dynamics. *Conference on Neural Information Processing Systems (NeurIPS).* 2023.
+Lu Mi\*, **Trung Le**\*, Tianxing He, Eli Shlizerman, Uygar Sümbül. Learning Time-Invariant Representations for Individual Neurons from Population Dynamics. *Conference on Neural Information Processing Systems (NeurIPS).* 2023.
 [[Paper]](http://trungle93.github.io/files/NeuPRINT.pdf)
 
 Jingyuan Li, Leo Scholl, **Trung Le**, Pavithra Rajeswaran, Amy Orsborn, Eli Shlizerman. AMAG: Additive, Multiplicative and Adaptive Graph Neural Network For Forecasting Neural Activity. *Conference on Neural Information Processing Systems (NeurIPS).* 2023.
